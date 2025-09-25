@@ -5,4 +5,6 @@ reference sheets that will be updated as designs change. Feel free to use whenev
 
 I'd recommend downloading and not just viewing, but that's up to you
 
+SFOTH reference sheet coming soon.
+
 ## If any stuff is retconned then contact me. I spent some time with my grubby hands searching for these images so some might be outdated
