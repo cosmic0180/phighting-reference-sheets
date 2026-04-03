@@ -4,6 +4,7 @@
 reference sheets that will be updated as designs change. Feel free to use whenever you want.
 
 I'd recommend downloading and not just viewing, but that's up to you
+You can do this by clicking the "code" button and clicking on "download zip", which will download a zip file with all the images and files in it.
 
 SFOTH reference sheet coming soon.
 
