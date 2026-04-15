@@ -2,6 +2,7 @@
 The character refs folder has individual files per phighter. If there's any incorrect/updated information, feel free to reach out to me @cosmicplating on twitter, tiktok, or tumblr. You can also request character sheets.
 
 reference sheets that will be updated as designs change. Feel free to use whenever you want.
+# Downloading the references
 
 I'd recommend downloading and not just viewing, but that's up to you
 
@@ -9,4 +10,4 @@ I'd recommend downloading and not just viewing, but that's up to you
 
 SFOTH reference sheet coming soon.
 
-## If any stuff is retconned then contact me.**
+If any stuff is retconned then contact me.
