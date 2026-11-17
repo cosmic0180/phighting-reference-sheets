@@ -1,5 +1,6 @@
 # phighting-reference-sheets
 The character refs folder has individual files per phighter. **If there's any incorrect/updated information, feel free to reach out to me @cosmicplating on twitter, tiktok, or tumblr. You can also request character sheets.**
+
 You can use the "issues" tab and open a report if there's something you want me to modify/add.
 
 reference sheets that will be updated as designs change. Feel free to use whenever you want.
